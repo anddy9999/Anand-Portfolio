@@ -1,0 +1,41 @@
+body {
+    background-color: #0d1117;
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+    max-width: 900px;
+    margin: auto;
+    padding: 20px;
+}
+
+h1 {
+    color: #00ff88;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    color: #58a6ff;
+}
+
+h3 {
+    color: #00ff88;
+    border-bottom: 2px solid #00ff88;
+    padding-bottom: 5px;
+}
+
+p, li {
+    line-height: 1.6;
+}
+
+ul {
+    list-style-type: square;
+}
+
+a {
+    color: #58a6ff;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #00ff88;
+}
